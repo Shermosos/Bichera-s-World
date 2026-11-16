@@ -26,7 +26,7 @@ public class GestorEnemigos : MonoBehaviour
 
     [Header("Apuntado")]
     public float distanciaApuntado = 40f;
-    public Color colorResaltado = new Color(1f, 1f, 0f, 0.4f); // Amarillo transparente
+    public Color colorResaltado = new Color(1f, 0f, 0f, 0.4f); // Amarillo transparente
     public float escalaResaltado = 1.1f;      // Cuánto más grande es que el enemigo
 
     class Enemigo
