@@ -17,6 +17,7 @@ public class MenuPrincipal : MonoBehaviour
         panelAjustes.SetActive(true);
         botonJugar.SetActive(false);
         botonAjustes.SetActive(false);
+        botonCreditos.SetActive(false);
     }
 
     public void CerrarAjustes()
@@ -24,5 +25,24 @@ public class MenuPrincipal : MonoBehaviour
         panelAjustes.SetActive(false);
         botonJugar.SetActive(true);
         botonAjustes.SetActive(true);
+        botonCreditos.SetActive(true);
+    }
+    public GameObject panelCreditos;
+    public GameObject botonCreditos;
+
+    public void AbrirCreditos()
+    {
+        panelCreditos.SetActive(true);
+        botonJugar.SetActive(false);
+        botonAjustes.SetActive(false);
+        botonCreditos.SetActive(false);
+    }
+
+    public void CerrarCreditos()
+    {
+        panelCreditos.SetActive(false);
+        botonJugar.SetActive(true);
+        botonAjustes.SetActive(true);
+        botonCreditos.SetActive(true);
     }
 }
