@@ -361,11 +361,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 553161343}
-  - {fileID: 373222929}
-  - {fileID: 2081732882}
-  radius: 7
 --- !u!1 &12284053
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,8 +390,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1506954061}
-  isStart: 1
 --- !u!4 &12284055
 Transform:
   m_ObjectHideFlags: 0
@@ -456,8 +449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &20296566
 GameObject:
   m_ObjectHideFlags: 0
@@ -730,8 +721,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &22954699
 GameObject:
   m_ObjectHideFlags: 0
@@ -776,8 +765,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &23433883
 GameObject:
   m_ObjectHideFlags: 0
@@ -807,8 +794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &23433885
 Transform:
   m_ObjectHideFlags: 0
@@ -868,8 +853,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &31007573
 GameObject:
   m_ObjectHideFlags: 0
@@ -914,8 +897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &31709520
 GameObject:
   m_ObjectHideFlags: 0
@@ -960,8 +941,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &32731214
 GameObject:
   m_ObjectHideFlags: 0
@@ -1006,8 +985,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &34354414
 GameObject:
   m_ObjectHideFlags: 0
@@ -1052,8 +1029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &35253202
 GameObject:
   m_ObjectHideFlags: 0
@@ -1098,8 +1073,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &38745500
 GameObject:
   m_ObjectHideFlags: 0
@@ -1262,15 +1235,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 385191149}
-  - {fileID: 1708053125}
-  - {fileID: 22954701}
-  - {fileID: 188067926}
-  - {fileID: 288623547}
-  - {fileID: 723279778}
-  - {fileID: 597436043}
-  radius: 34.99473
 --- !u!1 &41889459
 GameObject:
   m_ObjectHideFlags: 0
@@ -1315,8 +1279,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &47844375
 GameObject:
   m_ObjectHideFlags: 0
@@ -1346,10 +1308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1005925636}
-  - {fileID: 1117846933}
-  radius: 7
 --- !u!4 &47844377
 Transform:
   m_ObjectHideFlags: 0
@@ -1415,10 +1373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 232591833}
-  - {fileID: 1984338828}
-  radius: 6.9999948
 --- !u!1 &48231440
 GameObject:
   m_ObjectHideFlags: 0
@@ -1580,10 +1534,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 999647490}
-  - {fileID: 1656396605}
-  radius: 7
 --- !u!1 &57776398
 GameObject:
   m_ObjectHideFlags: 0
@@ -1628,8 +1578,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &66670079
 GameObject:
   m_ObjectHideFlags: 0
@@ -1659,8 +1607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &66670081
 Transform:
   m_ObjectHideFlags: 0
@@ -1723,10 +1669,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1841634998}
-  - {fileID: 1871433592}
-  radius: 7
 --- !u!1 &69476306
 GameObject:
   m_ObjectHideFlags: 0
@@ -1774,10 +1716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 844577171}
-  - {fileID: 1809753036}
-  radius: 7
 --- !u!1 &77915692
 GameObject:
   m_ObjectHideFlags: 0
@@ -2050,8 +1988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &99960081
 GameObject:
   m_ObjectHideFlags: 0
@@ -2099,10 +2035,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 365047195}
-  - {fileID: 433659667}
-  radius: 7
 --- !u!1 &105817387
 GameObject:
   m_ObjectHideFlags: 0
@@ -2265,14 +2197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &106372185
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -2293,67 +2217,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 0}
-  end: {fileID: 0}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
-  - {x: 0, y: 0, z: 9}
-  - {x: 0, y: 0, z: 10}
-  - {x: 0, y: 0, z: 16.870203}
-  - {x: -0.006674193, y: -0.25376922, z: 17.900372}
-  - {x: -0.04449463, y: -0.25376922, z: 23.73799}
-  - {x: -0.07372656, y: -0.25376922, z: 28.249964}
-  - {x: -0.17020029, y: -0.27304327, z: 28.990559}
-  - {x: -0.17114258, y: -0.25376922, z: 32.76124}
-  - {x: -0.1725149, y: -0.22569902, z: 38.25275}
-  - {x: -0.07111025, y: -0.3649741, z: 39.50234}
-  - {x: -0.037109375, y: -0.25376922, z: 43.743587}
-  - {x: -0.0057518557, y: -0.1512098, z: 47.655106}
-  - {x: -0.21091795, y: -0.23572768, z: 48.132015}
-  - {x: -0.19396973, y: -0.25376922, z: 51.568}
-  - {x: -0.16289687, y: -0.28684655, z: 57.86753}
-  - {x: -0.109069586, y: -0.2536936, z: 58.87025}
-  - {x: -0.09124756, y: -0.25376922, z: 64.21977}
-  - {x: -0.07162846, y: -0.25385246, z: 70.10871}
-  - {x: -0.08953929, y: -0.25368792, z: 70.92155}
-  - {x: -0.11553955, y: -0.25376922, z: 75.997696}
-  - {x: -0.15368724, y: -0.25388852, z: 83.44544}
-  - {x: -0.37431824, y: -0.25372756, z: 84.59045}
-  - {x: -0.12438965, y: -0.25376922, z: 90.89338}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0.0003114987, y: 0.9999869, z: -0.005111416}
-  - {x: -0.0011788097, y: 0.999656, z: -0.026201375}
-  - {x: -0.00045197667, y: 0.9999861, z: 0.0052529164}
-  - {x: 0.0000011226402, y: 1, z: 0.000014129952}
-  - {x: -0.0000015712325, y: 1, z: 0.000016008176}
-  - {x: 0.0000010538276, y: 1, z: 0.000006568413}
-  angles: []
-  bounds:
-    m_Center: {x: -0.12068845, y: -0.1483959, z: 45.446693}
-    m_Extent: {x: 0.12068845, y: 0.1483959, z: 45.446693}
-  boundingBoxes:
-  - m_Center: {x: 0, y: 0, z: 5}
-    m_Extent: {x: 0, y: 0, z: 5}
-  - m_Center: {x: -0.022247314, y: -0.12688461, z: 16.868996}
-    m_Extent: {x: 0.022247314, y: 0.12688461, z: 6.8689957}
-  - m_Center: {x: -0.1078186, y: -0.25802067, z: 28.249615}
-    m_Extent: {x: 0.063323975, y: 0.0042514503, z: 4.5116234}
-  - m_Center: {x: -0.10412598, y: -0.2734149, z: 38.25241}
-    m_Extent: {x: 0.0670166, y: 0.023376882, z: 5.491173}
-  - m_Center: {x: -0.114937074, y: -0.22884455, z: 47.655792}
-    m_Extent: {x: 0.079807736, y: 0.024924666, z: 3.9122086}
-  - m_Center: {x: -0.14260864, y: -0.26103094, z: 57.893887}
-    m_Extent: {x: 0.051361084, y: 0.0072617233, z: 6.325886}
-  - m_Center: {x: -0.09927842, y: -0.25376964, z: 70.108734}
-    m_Extent: {x: 0.01626113, y: 0.000023424625, z: 5.888962}
-  - m_Center: {x: -0.17845823, y: -0.25378814, z: 83.44554}
-    m_Extent: {x: 0.06291868, y: 0.000025957823, z: 7.4478455}
 --- !u!64 &106372187
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2473,10 +2336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 341321344}
-  - {fileID: 855842004}
-  radius: 7
 --- !u!1 &108518551
 GameObject:
   m_ObjectHideFlags: 0
@@ -2734,8 +2593,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &109824558
 Transform:
   m_ObjectHideFlags: 0
@@ -2988,8 +2845,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &115659862
 Transform:
   m_ObjectHideFlags: 0
@@ -3034,156 +2889,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b620528168e7c6c4190189510f83124f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Barmetler.RoadSystem.Runtime::Barmetler.RoadSystem.RoadSystem
-  intersections:
-  - {fileID: 865505241}
-  - {fileID: 2061156349}
-  - {fileID: 791791931}
-  - {fileID: 41782209}
-  - {fileID: 1130331566}
-  - {fileID: 1186746995}
-  - {fileID: 1874803506}
-  - {fileID: 661777058}
-  - {fileID: 446582987}
-  - {fileID: 456310159}
-  - {fileID: 1997920474}
-  - {fileID: 581495255}
-  - {fileID: 1596198425}
-  - {fileID: 1299403433}
-  - {fileID: 1417454497}
-  - {fileID: 646821485}
-  - {fileID: 181666442}
-  - {fileID: 1952788057}
-  - {fileID: 1860085613}
-  - {fileID: 2026946923}
-  - {fileID: 1245570164}
-  - {fileID: 1578347485}
-  - {fileID: 498086923}
-  - {fileID: 755913541}
-  - {fileID: 1185824377}
-  - {fileID: 527766292}
-  - {fileID: 2141825621}
-  - {fileID: 1796237842}
-  - {fileID: 1299203135}
-  - {fileID: 584923932}
-  - {fileID: 790811871}
-  - {fileID: 1529401370}
-  - {fileID: 201785949}
-  - {fileID: 466735931}
-  - {fileID: 1801735378}
-  - {fileID: 819422815}
-  - {fileID: 2144075130}
-  - {fileID: 1706043698}
-  - {fileID: 2092708606}
-  - {fileID: 1507700401}
-  - {fileID: 314232704}
-  - {fileID: 862818624}
-  - {fileID: 2139484806}
-  - {fileID: 1323321492}
-  - {fileID: 1969409501}
-  - {fileID: 1213323066}
-  - {fileID: 1721207841}
-  - {fileID: 2004027315}
-  - {fileID: 1811199345}
-  - {fileID: 1644293336}
-  - {fileID: 723268150}
-  - {fileID: 1263905596}
-  - {fileID: 1240965477}
-  - {fileID: 1537770390}
-  - {fileID: 1722411505}
-  - {fileID: 257813336}
-  - {fileID: 792436212}
-  - {fileID: 910797800}
-  - {fileID: 1883796776}
-  - {fileID: 1360827656}
-  - {fileID: 829746386}
-  - {fileID: 1900233244}
-  - {fileID: 1358833696}
-  - {fileID: 616760650}
-  - {fileID: 2041407872}
-  - {fileID: 1324641688}
-  - {fileID: 1229062480}
-  - {fileID: 547762197}
-  - {fileID: 598821153}
-  - {fileID: 919758370}
-  - {fileID: 568301662}
-  - {fileID: 1242190494}
-  - {fileID: 1170018883}
-  - {fileID: 393950344}
-  - {fileID: 1459363706}
-  - {fileID: 368381240}
-  - {fileID: 1229701074}
-  - {fileID: 69476308}
-  - {fileID: 1999408342}
-  - {fileID: 1870025435}
-  - {fileID: 686627829}
-  - {fileID: 1977741063}
-  - {fileID: 818616160}
-  - {fileID: 1571447520}
-  - {fileID: 1942742773}
-  - {fileID: 6819531}
-  - {fileID: 821637799}
-  - {fileID: 1984678887}
-  - {fileID: 2146664687}
-  - {fileID: 1350295594}
-  - {fileID: 1545043105}
-  - {fileID: 744356381}
-  - {fileID: 505277363}
-  - {fileID: 827789024}
-  - {fileID: 1198010696}
-  - {fileID: 47844376}
-  - {fileID: 744953899}
-  - {fileID: 1503257066}
-  - {fileID: 1512122687}
-  - {fileID: 783640888}
-  - {fileID: 1796326892}
-  - {fileID: 1317943643}
-  - {fileID: 1870559294}
-  - {fileID: 428115821}
-  - {fileID: 1380730806}
-  - {fileID: 56683176}
-  - {fileID: 67186529}
-  - {fileID: 1505250966}
-  - {fileID: 1128863702}
-  - {fileID: 813464299}
-  - {fileID: 107854370}
-  - {fileID: 959934353}
-  - {fileID: 1433405884}
-  - {fileID: 1295502517}
-  - {fileID: 1652526665}
-  - {fileID: 1651455784}
-  - {fileID: 333280014}
-  - {fileID: 2050026404}
-  - {fileID: 99960083}
-  - {fileID: 1210871578}
-  - {fileID: 687782285}
-  - {fileID: 685283554}
-  - {fileID: 510040428}
-  - {fileID: 551557502}
-  - {fileID: 1022337161}
-  - {fileID: 154189080}
-  - {fileID: 241560157}
-  - {fileID: 1767343873}
-  - {fileID: 532529399}
-  - {fileID: 1831832310}
-  roads:
-  - {fileID: 106372186}
-  - {fileID: 480348050}
-  - {fileID: 1695681228}
-  - {fileID: 404989732}
-  - {fileID: 1640039562}
-  - {fileID: 1274604492}
-  - {fileID: 1506954061}
-  - {fileID: 1544840645}
-  graph:
-    roadSystem: {fileID: 136572825}
-    nodes: []
-    weights:
-      width: 0
-      height: 0
-      array: []
-  ShowDebugInfo: 1
-  ShowEdgeWeights: 1
-  DistanceFactor: 1000
 --- !u!4 &136572826
 Transform:
   m_ObjectHideFlags: 0
@@ -3367,8 +3072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &154189079
 GameObject:
   m_ObjectHideFlags: 0
@@ -3398,11 +3101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 350428807}
-  - {fileID: 1613630204}
-  - {fileID: 379931526}
-  radius: 7
 --- !u!4 &154189081
 Transform:
   m_ObjectHideFlags: 0
@@ -3922,8 +3620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &181635435
 GameObject:
   m_ObjectHideFlags: 0
@@ -3968,8 +3664,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &181666441
 GameObject:
   m_ObjectHideFlags: 0
@@ -3999,10 +3693,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1622835164}
-  - {fileID: 1505336070}
-  radius: 7
 --- !u!4 &181666443
 Transform:
   m_ObjectHideFlags: 0
@@ -4065,8 +3755,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &201785947
 GameObject:
   m_ObjectHideFlags: 0
@@ -4114,10 +3802,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 469321582}
-  - {fileID: 859397067}
-  radius: 7
 --- !u!1 &208088355
 GameObject:
   m_ObjectHideFlags: 0
@@ -4276,8 +3960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &223185919
 GameObject:
   m_ObjectHideFlags: 0
@@ -4322,8 +4004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &224819835
 GameObject:
   m_ObjectHideFlags: 0
@@ -4368,8 +4048,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
+--- !u!1 &227065286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 227065287}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &227065287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227065286}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1332070037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &228405068
 GameObject:
   m_ObjectHideFlags: 0
@@ -4414,8 +4123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &232591831
 GameObject:
   m_ObjectHideFlags: 0
@@ -4460,8 +4167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &234571505
 GameObject:
   m_ObjectHideFlags: 0
@@ -4699,11 +4404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 986289815}
-  - {fileID: 1079709807}
-  - {fileID: 515897601}
-  radius: 7
 --- !u!4 &241560158
 Transform:
   m_ObjectHideFlags: 0
@@ -4770,10 +4470,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1596171938}
-  - {fileID: 1022054041}
-  radius: 7
 --- !u!1 &260013755
 GameObject:
   m_ObjectHideFlags: 0
@@ -4932,8 +4628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &267540924
 GameObject:
   m_ObjectHideFlags: 0
@@ -5206,8 +4900,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &274081842
 GameObject:
   m_ObjectHideFlags: 0
@@ -5252,8 +4944,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &277278710
 GameObject:
   m_ObjectHideFlags: 0
@@ -5283,8 +4973,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &277278712
 Transform:
   m_ObjectHideFlags: 0
@@ -5344,8 +5032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &282556674
 GameObject:
   m_ObjectHideFlags: 0
@@ -5619,8 +5305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &289596525
 GameObject:
   m_ObjectHideFlags: 0
@@ -5665,8 +5349,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &292383549
 GameObject:
   m_ObjectHideFlags: 0
@@ -5696,8 +5378,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &292383551
 Transform:
   m_ObjectHideFlags: 0
@@ -5757,8 +5437,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &302415626
 GameObject:
   m_ObjectHideFlags: 0
@@ -5803,8 +5481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &307225766
 GameObject:
   m_ObjectHideFlags: 0
@@ -5963,8 +5639,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &314232702
 GameObject:
   m_ObjectHideFlags: 0
@@ -6012,10 +5686,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1525086303}
-  - {fileID: 912920666}
-  radius: 14
 --- !u!1 &314909137
 GameObject:
   m_ObjectHideFlags: 0
@@ -6063,10 +5733,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1074232547}
-  - {fileID: 228405070}
-  radius: 6.9999948
 --- !u!1 &325688758
 GameObject:
   m_ObjectHideFlags: 0
@@ -6365,10 +6031,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 742613013}
-  - {fileID: 22532968}
-  radius: 7
 --- !u!1 &336579030
 GameObject:
   m_ObjectHideFlags: 0
@@ -6413,8 +6075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &340048356
 GameObject:
   m_ObjectHideFlags: 0
@@ -6459,8 +6119,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &341321342
 GameObject:
   m_ObjectHideFlags: 0
@@ -6505,8 +6163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &341321398
 GameObject:
   m_ObjectHideFlags: 0
@@ -6779,8 +6435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &352824604
 GameObject:
   m_ObjectHideFlags: 0
@@ -6825,8 +6479,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &355082248
 GameObject:
   m_ObjectHideFlags: 0
@@ -6871,8 +6523,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &358401355
 GameObject:
   m_ObjectHideFlags: 0
@@ -7016,8 +6666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &361600049
 Transform:
   m_ObjectHideFlags: 0
@@ -7077,8 +6725,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &365047193
 GameObject:
   m_ObjectHideFlags: 0
@@ -7123,8 +6769,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &365135604
 GameObject:
   m_ObjectHideFlags: 0
@@ -7286,10 +6930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1134210054}
-  - {fileID: 35253204}
-  radius: 7
 --- !u!1 &373222927
 GameObject:
   m_ObjectHideFlags: 0
@@ -7334,8 +6974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &379931525
 GameObject:
   m_ObjectHideFlags: 0
@@ -7365,8 +7003,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &379931527
 Transform:
   m_ObjectHideFlags: 0
@@ -7540,8 +7176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 1
 --- !u!1 &393950342
 GameObject:
   m_ObjectHideFlags: 0
@@ -7589,10 +7223,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 587812500}
-  - {fileID: 2000406719}
-  radius: 7
 --- !u!1 &394334809
 GameObject:
   m_ObjectHideFlags: 0
@@ -7865,8 +7495,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &402488277
 GameObject:
   m_ObjectHideFlags: 0
@@ -8143,14 +7771,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &404989731
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8171,67 +7791,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 0}
-  end: {fileID: 0}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
-  - {x: 0, y: 0, z: 9}
-  - {x: 0, y: 0, z: 10}
-  - {x: 0, y: 0, z: 16.870203}
-  - {x: -0.006674193, y: -0.25376922, z: 17.900372}
-  - {x: -0.04449463, y: -0.25376922, z: 23.73799}
-  - {x: -0.07372656, y: -0.25376922, z: 28.249964}
-  - {x: -0.17020029, y: -0.27304327, z: 28.990559}
-  - {x: -0.17114258, y: -0.25376922, z: 32.76124}
-  - {x: -0.1725149, y: -0.22569902, z: 38.25275}
-  - {x: -0.07111025, y: -0.3649741, z: 39.50234}
-  - {x: -0.037109375, y: -0.25376922, z: 43.743587}
-  - {x: -0.0057518557, y: -0.1512098, z: 47.655106}
-  - {x: -0.21091795, y: -0.23572768, z: 48.132015}
-  - {x: -0.19396973, y: -0.25376922, z: 51.568}
-  - {x: -0.16289687, y: -0.28684655, z: 57.86753}
-  - {x: -0.109069586, y: -0.2536936, z: 58.87025}
-  - {x: -0.09124756, y: -0.25376922, z: 64.21977}
-  - {x: -0.07162846, y: -0.25385246, z: 70.10871}
-  - {x: -0.08953929, y: -0.25368792, z: 70.92155}
-  - {x: -0.11553955, y: -0.25376922, z: 75.997696}
-  - {x: -0.15368724, y: -0.25388852, z: 83.44544}
-  - {x: -0.37431824, y: -0.25372756, z: 84.59045}
-  - {x: -0.12438965, y: -0.25376922, z: 90.89338}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0.0003114987, y: 0.9999869, z: -0.005111416}
-  - {x: -0.0011788097, y: 0.999656, z: -0.026201375}
-  - {x: -0.00045197667, y: 0.9999861, z: 0.0052529164}
-  - {x: 0.0000011226402, y: 1, z: 0.000014129952}
-  - {x: -0.0000015712325, y: 1, z: 0.000016008176}
-  - {x: 0.0000010538276, y: 1, z: 0.000006568413}
-  angles: []
-  bounds:
-    m_Center: {x: -0.12068845, y: -0.1483959, z: 45.446693}
-    m_Extent: {x: 0.12068845, y: 0.1483959, z: 45.446693}
-  boundingBoxes:
-  - m_Center: {x: 0, y: 0, z: 5}
-    m_Extent: {x: 0, y: 0, z: 5}
-  - m_Center: {x: -0.022247314, y: -0.12688461, z: 16.868996}
-    m_Extent: {x: 0.022247314, y: 0.12688461, z: 6.8689957}
-  - m_Center: {x: -0.1078186, y: -0.25802067, z: 28.249615}
-    m_Extent: {x: 0.063323975, y: 0.0042514503, z: 4.5116234}
-  - m_Center: {x: -0.10412598, y: -0.2734149, z: 38.25241}
-    m_Extent: {x: 0.0670166, y: 0.023376882, z: 5.491173}
-  - m_Center: {x: -0.114937074, y: -0.22884455, z: 47.655792}
-    m_Extent: {x: 0.079807736, y: 0.024924666, z: 3.9122086}
-  - m_Center: {x: -0.14260864, y: -0.26103094, z: 57.893887}
-    m_Extent: {x: 0.051361084, y: 0.0072617233, z: 6.325886}
-  - m_Center: {x: -0.09927842, y: -0.25376964, z: 70.108734}
-    m_Extent: {x: 0.01626113, y: 0.000023424625, z: 5.888962}
-  - m_Center: {x: -0.17845823, y: -0.25378814, z: 83.44554}
-    m_Extent: {x: 0.06291868, y: 0.000025957823, z: 7.4478455}
 --- !u!64 &404989733
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8349,8 +7908,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -8830,8 +8387,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &420794054
 GameObject:
   m_ObjectHideFlags: 0
@@ -8876,8 +8431,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &427675498
 GameObject:
   m_ObjectHideFlags: 0
@@ -8922,8 +8475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &428115819
 GameObject:
   m_ObjectHideFlags: 0
@@ -8971,10 +8522,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 628648047}
-  - {fileID: 901106356}
-  radius: 7
 --- !u!1 &433659665
 GameObject:
   m_ObjectHideFlags: 0
@@ -9019,8 +8566,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &433738306
 GameObject:
   m_ObjectHideFlags: 0
@@ -9182,10 +8727,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 352824606}
-  - {fileID: 1579915490}
-  radius: 14.000006
 --- !u!1 &449995363
 GameObject:
   m_ObjectHideFlags: 0
@@ -9329,8 +8870,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &450999462
 Transform:
   m_ObjectHideFlags: 0
@@ -9504,8 +9043,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &452816184
 GameObject:
   m_ObjectHideFlags: 0
@@ -9551,8 +9088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &456310157
 GameObject:
   m_ObjectHideFlags: 0
@@ -9601,15 +9136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 699160930}
-  - {fileID: 986706547}
-  - {fileID: 815037590}
-  - {fileID: 772563818}
-  - {fileID: 1922701129}
-  - {fileID: 1053573342}
-  - {fileID: 2011488481}
-  radius: 34.994736
 --- !u!1 &459309207
 GameObject:
   m_ObjectHideFlags: 0
@@ -9768,8 +9294,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &466735929
 GameObject:
   m_ObjectHideFlags: 0
@@ -9817,10 +9341,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1668903474}
-  - {fileID: 1524515779}
-  radius: 7
 --- !u!1 &467329180
 GameObject:
   m_ObjectHideFlags: 0
@@ -9865,8 +9385,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &469321580
 GameObject:
   m_ObjectHideFlags: 0
@@ -9911,8 +9429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &480348049
 GameObject:
   m_ObjectHideFlags: 0
@@ -9946,67 +9462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 0}
-  end: {fileID: 0}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: -0.23155212, y: -0.19999999, z: 0}
-  - {x: -0.23155212, y: -0.19999999, z: 1}
-  - {x: 0, y: -0.35904723, z: 9}
-  - {x: 0, y: -0.35904723, z: 10}
-  - {x: 0, y: -0.35904723, z: 16.870203}
-  - {x: -0.006674193, y: -0.25376922, z: 17.900372}
-  - {x: -0.04449463, y: -0.25376922, z: 23.73799}
-  - {x: -0.07372656, y: -0.25376922, z: 28.249964}
-  - {x: -0.17020029, y: -0.27304327, z: 28.990559}
-  - {x: -0.17114258, y: -0.25376922, z: 32.76124}
-  - {x: -0.1725149, y: -0.22569902, z: 38.25275}
-  - {x: -0.07111025, y: -0.3649741, z: 39.50234}
-  - {x: -0.037109375, y: -0.25376922, z: 43.743587}
-  - {x: -0.0057518557, y: -0.1512098, z: 47.655106}
-  - {x: -0.21091795, y: -0.23572768, z: 48.132015}
-  - {x: -0.19396973, y: -0.25376922, z: 51.568}
-  - {x: -0.16289687, y: -0.28684655, z: 57.86753}
-  - {x: -0.109069586, y: -0.2536936, z: 58.87025}
-  - {x: -0.09124756, y: -0.25376922, z: 64.21977}
-  - {x: -0.07162846, y: -0.25385246, z: 70.10871}
-  - {x: -0.08953929, y: -0.25368792, z: 70.92155}
-  - {x: -0.11553955, y: -0.25376922, z: 75.997696}
-  - {x: -0.15368724, y: -0.25388852, z: 83.44544}
-  - {x: -0.37431824, y: -0.25372756, z: 84.59045}
-  - {x: -0.12438965, y: -0.25376922, z: 90.89338}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0.0003114987, y: 0.9999869, z: -0.005111416}
-  - {x: -0.0011788097, y: 0.999656, z: -0.026201375}
-  - {x: -0.00045197667, y: 0.9999861, z: 0.0052529164}
-  - {x: 0.0000011226402, y: 1, z: 0.000014129952}
-  - {x: -0.0000015712325, y: 1, z: 0.000016008176}
-  - {x: 0.0000010538276, y: 1, z: 0.000006568413}
-  angles: []
-  bounds:
-    m_Center: {x: -0.12069078, y: -0.2795236, z: 45.446693}
-    m_Extent: {x: 0.12069078, y: 0.07952362, z: 45.446693}
-  boundingBoxes:
-  - m_Center: {x: -0.11577606, y: -0.2795236, z: 5}
-    m_Extent: {x: 0.11577606, y: 0.07952362, z: 5}
-  - m_Center: {x: -0.022247314, y: -0.30640823, z: 16.868996}
-    m_Extent: {x: 0.022247314, y: 0.052639008, z: 6.8689957}
-  - m_Center: {x: -0.1078186, y: -0.25802106, z: 28.249615}
-    m_Extent: {x: 0.063323975, y: 0.0042518377, z: 4.5116234}
-  - m_Center: {x: -0.10412598, y: -0.27341798, z: 38.25241}
-    m_Extent: {x: 0.0670166, y: 0.023378938, z: 5.491173}
-  - m_Center: {x: -0.114932, y: -0.22884426, z: 47.655792}
-    m_Extent: {x: 0.07981004, y: 0.024924964, z: 3.9122086}
-  - m_Center: {x: -0.14260864, y: -0.26103044, z: 57.893887}
-    m_Extent: {x: 0.051361084, y: 0.0072612166, z: 6.325886}
-  - m_Center: {x: -0.09927876, y: -0.25376964, z: 70.108734}
-    m_Extent: {x: 0.016260788, y: 0.00002336502, z: 5.888962}
-  - m_Center: {x: -0.17846057, y: -0.25378814, z: 83.44554}
-    m_Extent: {x: 0.06292099, y: 0.000025957823, z: 7.4478455}
 --- !u!114 &480348051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10019,14 +9474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &480348052
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -10166,8 +9613,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &498086922
 GameObject:
   m_ObjectHideFlags: 0
@@ -10197,10 +9642,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2143203082}
-  - {fileID: 66670080}
-  radius: 7.0000076
 --- !u!4 &498086924
 Transform:
   m_ObjectHideFlags: 0
@@ -10476,8 +9917,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &503143496
 Transform:
   m_ObjectHideFlags: 0
@@ -10540,10 +9979,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1064688375}
-  - {fileID: 1369945642}
-  radius: 7.000002
 --- !u!1 &510040427
 GameObject:
   m_ObjectHideFlags: 0
@@ -10573,10 +10008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1455892199}
-  - {fileID: 681235861}
-  radius: 7
 --- !u!4 &510040429
 Transform:
   m_ObjectHideFlags: 0
@@ -10624,8 +10055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1640039562}
-  isStart: 0
 --- !u!4 &515127878
 Transform:
   m_ObjectHideFlags: 0
@@ -10670,8 +10099,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &515897602
 Transform:
   m_ObjectHideFlags: 0
@@ -10716,8 +10143,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1506954061}
-  isStart: 0
 --- !u!4 &519243102
 Transform:
   m_ObjectHideFlags: 0
@@ -10762,8 +10187,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &522240359
 Transform:
   m_ObjectHideFlags: 0
@@ -10937,8 +10360,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &527766290
 GameObject:
   m_ObjectHideFlags: 0
@@ -10986,10 +10407,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 850395139}
-  - {fileID: 398517837}
-  radius: 7
 --- !u!1 &529013979
 GameObject:
   m_ObjectHideFlags: 0
@@ -11034,8 +10451,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &529090795
 GameObject:
   m_ObjectHideFlags: 0
@@ -11179,10 +10594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2058008741}
-  - {fileID: 1915620763}
-  radius: 14
 --- !u!4 &532529400
 Transform:
   m_ObjectHideFlags: 0
@@ -11230,8 +10641,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 1
 --- !u!4 &536493850
 Transform:
   m_ObjectHideFlags: 0
@@ -11488,10 +10897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 836601949}
-  - {fileID: 755384590}
-  radius: 7
 --- !u!1 &550714685
 GameObject:
   m_ObjectHideFlags: 0
@@ -11536,8 +10941,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &551557501
 GameObject:
   m_ObjectHideFlags: 0
@@ -11567,10 +10970,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 688583989}
-  - {fileID: 795026727}
-  radius: 7
 --- !u!4 &551557503
 Transform:
   m_ObjectHideFlags: 0
@@ -11633,8 +11032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &566949912
 GameObject:
   m_ObjectHideFlags: 0
@@ -11778,10 +11175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 765332848}
-  - {fileID: 450999461}
-  radius: 14.000009
 --- !u!4 &568301663
 Transform:
   m_ObjectHideFlags: 0
@@ -11844,8 +11237,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &581495253
 GameObject:
   m_ObjectHideFlags: 0
@@ -11893,10 +11284,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1053573342}
-  - {fileID: 2011488481}
-  radius: 14.000006
 --- !u!1 &584923930
 GameObject:
   m_ObjectHideFlags: 0
@@ -11944,10 +11331,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 313164697}
-  - {fileID: 1447351097}
-  radius: 7
 --- !u!1 &587812498
 GameObject:
   m_ObjectHideFlags: 0
@@ -11992,8 +11375,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &588775204
 GameObject:
   m_ObjectHideFlags: 0
@@ -12038,8 +11419,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &597436042
 GameObject:
   m_ObjectHideFlags: 0
@@ -12069,8 +11448,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &597436044
 Transform:
   m_ObjectHideFlags: 0
@@ -12133,10 +11510,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2073885550}
-  - {fileID: 865576386}
-  radius: 7
 --- !u!1 &604638441
 GameObject:
   m_ObjectHideFlags: 0
@@ -12181,8 +11554,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &608111122
 GameObject:
   m_ObjectHideFlags: 0
@@ -12227,8 +11598,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &614795303
 GameObject:
   m_ObjectHideFlags: 0
@@ -12273,8 +11642,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &615076515
 GameObject:
   m_ObjectHideFlags: 0
@@ -12319,8 +11686,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &616760649
 GameObject:
   m_ObjectHideFlags: 0
@@ -12350,10 +11715,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1670353714}
-  - {fileID: 292383550}
-  radius: 7
 --- !u!4 &616760651
 Transform:
   m_ObjectHideFlags: 0
@@ -12416,8 +11777,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &628648045
 GameObject:
   m_ObjectHideFlags: 0
@@ -12462,8 +11821,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &635170662
 GameObject:
   m_ObjectHideFlags: 0
@@ -12508,8 +11865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &639043623
 GameObject:
   m_ObjectHideFlags: 0
@@ -12539,8 +11894,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1544840645}
-  isStart: 1
 --- !u!4 &639043625
 Transform:
   m_ObjectHideFlags: 0
@@ -12699,10 +12052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 752298486}
-  - {fileID: 522240358}
-  radius: 7
 --- !u!4 &646821486
 Transform:
   m_ObjectHideFlags: 0
@@ -12765,8 +12114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &660673466
 GameObject:
   m_ObjectHideFlags: 0
@@ -12811,8 +12158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &661777056
 GameObject:
   m_ObjectHideFlags: 0
@@ -12860,10 +12205,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1448579004}
-  - {fileID: 808912575}
-  radius: 14.000006
 --- !u!1 &679813095
 GameObject:
   m_ObjectHideFlags: 0
@@ -12908,8 +12249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &681235860
 GameObject:
   m_ObjectHideFlags: 0
@@ -12939,8 +12278,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &681235862
 Transform:
   m_ObjectHideFlags: 0
@@ -13099,10 +12436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 957293098}
-  - {fileID: 1443941916}
-  radius: 7.0000076
 --- !u!4 &685283555
 Transform:
   m_ObjectHideFlags: 0
@@ -13168,10 +12501,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 217584784}
-  - {fileID: 1734444230}
-  radius: 7
 --- !u!1 &686953632
 GameObject:
   m_ObjectHideFlags: 0
@@ -13315,10 +12644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 949002709}
-  - {fileID: 2018429599}
-  radius: 7
 --- !u!4 &687782286
 Transform:
   m_ObjectHideFlags: 0
@@ -13560,8 +12885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &688583990
 Transform:
   m_ObjectHideFlags: 0
@@ -13735,8 +13058,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 1
 --- !u!1 &699942115
 GameObject:
   m_ObjectHideFlags: 0
@@ -13781,8 +13102,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &707946171
 GameObject:
   m_ObjectHideFlags: 0
@@ -13827,8 +13146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &714204101
 GameObject:
   m_ObjectHideFlags: 0
@@ -14104,10 +13421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 489913161}
-  - {fileID: 635170664}
-  radius: 7
 --- !u!1 &723279776
 GameObject:
   m_ObjectHideFlags: 0
@@ -14152,8 +13465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &726184990
 GameObject:
   m_ObjectHideFlags: 0
@@ -14183,8 +13494,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1640039562}
-  isStart: 1
 --- !u!4 &726184992
 Transform:
   m_ObjectHideFlags: 0
@@ -14244,8 +13553,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &728475347
 GameObject:
   m_ObjectHideFlags: 0
@@ -14404,8 +13711,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &736269932
 GameObject:
   m_ObjectHideFlags: 0
@@ -14450,8 +13755,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &737165038
 GameObject:
   m_ObjectHideFlags: 0
@@ -14496,8 +13799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &741236466
 GameObject:
   m_ObjectHideFlags: 0
@@ -14542,8 +13843,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &742613011
 GameObject:
   m_ObjectHideFlags: 0
@@ -14588,8 +13887,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &744356379
 GameObject:
   m_ObjectHideFlags: 0
@@ -14637,10 +13934,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1674888825}
-  - {fileID: 1927747758}
-  radius: 7
 --- !u!1 &744567801
 GameObject:
   m_ObjectHideFlags: 0
@@ -14685,8 +13978,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &744953898
 GameObject:
   m_ObjectHideFlags: 0
@@ -14716,10 +14007,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 361600048}
-  - {fileID: 1923498884}
-  radius: 7
 --- !u!4 &744953900
 Transform:
   m_ObjectHideFlags: 0
@@ -14782,8 +14069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &752298484
 GameObject:
   m_ObjectHideFlags: 0
@@ -14828,8 +14113,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &755384588
 GameObject:
   m_ObjectHideFlags: 0
@@ -14874,8 +14157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &755913540
 GameObject:
   m_ObjectHideFlags: 0
@@ -14905,10 +14186,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1991332179}
-  - {fileID: 1993019977}
-  radius: 7
 --- !u!4 &755913542
 Transform:
   m_ObjectHideFlags: 0
@@ -15085,8 +14362,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &765332847
 GameObject:
   m_ObjectHideFlags: 0
@@ -15116,8 +14391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &765332849
 Transform:
   m_ObjectHideFlags: 0
@@ -15177,8 +14450,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &772563816
 GameObject:
   m_ObjectHideFlags: 0
@@ -15223,8 +14494,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &773184619
 GameObject:
   m_ObjectHideFlags: 0
@@ -15386,10 +14655,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1280703589}
-  - {fileID: 1744374945}
-  radius: 7
 --- !u!1 &790811869
 GameObject:
   m_ObjectHideFlags: 0
@@ -15437,10 +14702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 355082250}
-  - {fileID: 1639122325}
-  radius: 7
 --- !u!1 &791791929
 GameObject:
   m_ObjectHideFlags: 0
@@ -15488,10 +14749,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1890617508}
-  - {fileID: 1889936721}
-  radius: 14.000002
 --- !u!1 &792436210
 GameObject:
   m_ObjectHideFlags: 0
@@ -15539,10 +14796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 34354416}
-  - {fileID: 1319877897}
-  radius: 7
 --- !u!1 &795026726
 GameObject:
   m_ObjectHideFlags: 0
@@ -15572,8 +14825,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &795026728
 Transform:
   m_ObjectHideFlags: 0
@@ -15862,8 +15113,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &808912573
 GameObject:
   m_ObjectHideFlags: 0
@@ -15908,8 +15157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &813464297
 GameObject:
   m_ObjectHideFlags: 0
@@ -15957,10 +15204,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2023582641}
-  - {fileID: 765707189}
-  radius: 7
 --- !u!1 &815037588
 GameObject:
   m_ObjectHideFlags: 0
@@ -16005,8 +15248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &818616158
 GameObject:
   m_ObjectHideFlags: 0
@@ -16054,10 +15295,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 416688823}
-  - {fileID: 2020699243}
-  radius: 7
 --- !u!1 &819422813
 GameObject:
   m_ObjectHideFlags: 0
@@ -16105,10 +15342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1542494890}
-  - {fileID: 746653391}
-  radius: 7
 --- !u!1 &821637797
 GameObject:
   m_ObjectHideFlags: 0
@@ -16156,10 +15389,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1807753239}
-  - {fileID: 1623559320}
-  radius: 7
 --- !u!1 &827789022
 GameObject:
   m_ObjectHideFlags: 0
@@ -16207,10 +15436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 615076517}
-  - {fileID: 2044935796}
-  radius: 7
 --- !u!1 &829746384
 GameObject:
   m_ObjectHideFlags: 0
@@ -16258,10 +15483,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1800898476}
-  - {fileID: 1091264740}
-  radius: 7.0000076
 --- !u!1 &831032235
 GameObject:
   m_ObjectHideFlags: 0
@@ -16306,8 +15527,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -16401,8 +15620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &840399511
 GameObject:
   m_ObjectHideFlags: 0
@@ -16561,8 +15778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &844577169
 GameObject:
   m_ObjectHideFlags: 0
@@ -16607,8 +15822,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &850395137
 GameObject:
   m_ObjectHideFlags: 0
@@ -16653,8 +15866,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &851449866
 GameObject:
   m_ObjectHideFlags: 0
@@ -16699,8 +15910,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &855842002
 GameObject:
   m_ObjectHideFlags: 0
@@ -16745,8 +15954,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &857057310
 GameObject:
   m_ObjectHideFlags: 0
@@ -17133,8 +16340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &862818622
 GameObject:
   m_ObjectHideFlags: 0
@@ -17187,20 +16392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Barmetler.RoadSystem.Runtime::Barmetler.RoadSystem.Intersection
-  anchorPoints:
-  - {fileID: 764369026}
-  - {fileID: 515127877}
-  - {fileID: 1966380561}
-  - {fileID: 869022810}
-  - {fileID: 1844122713}
-  - {fileID: 726184991}
-  - {fileID: 651649642}
-  - {fileID: 12284054}
-  - {fileID: 915400133}
-  - {fileID: 1120166087}
-  - {fileID: 639043624}
-  - {fileID: 519243101}
-  radius: 36.33159
 --- !u!1 &865505239
 GameObject:
   m_ObjectHideFlags: 0
@@ -17249,15 +16440,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 536493849}
-  - {fileID: 452816186}
-  - {fileID: 1454252333}
-  - {fileID: 734717684}
-  - {fileID: 1853627855}
-  - {fileID: 1890617508}
-  - {fileID: 1889936721}
-  radius: 34.99473
 --- !u!1 &865576384
 GameObject:
   m_ObjectHideFlags: 0
@@ -17302,8 +16484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &869022808
 GameObject:
   m_ObjectHideFlags: 0
@@ -17348,8 +16528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &891855836
 GameObject:
   m_ObjectHideFlags: 0
@@ -17379,8 +16557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &891855838
 Transform:
   m_ObjectHideFlags: 0
@@ -17440,8 +16616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &901106354
 GameObject:
   m_ObjectHideFlags: 0
@@ -17486,8 +16660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &901816534
 GameObject:
   m_ObjectHideFlags: 0
@@ -17532,8 +16704,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &905257295
 GameObject:
   m_ObjectHideFlags: 0
@@ -17791,10 +16961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 660673468}
-  - {fileID: 1128631200}
-  radius: 7
 --- !u!4 &910797801
 Transform:
   m_ObjectHideFlags: 0
@@ -17857,8 +17023,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &915400132
 GameObject:
   m_ObjectHideFlags: 0
@@ -17888,8 +17052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1274604492}
-  isStart: 0
 --- !u!4 &915400134
 Transform:
   m_ObjectHideFlags: 0
@@ -17952,10 +17114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 31007575}
-  - {fileID: 1781394865}
-  radius: 7
 --- !u!1 &926153599
 GameObject:
   m_ObjectHideFlags: 0
@@ -18342,8 +17500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &949002708
 GameObject:
   m_ObjectHideFlags: 0
@@ -18373,8 +17529,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &949002710
 Transform:
   m_ObjectHideFlags: 0
@@ -18533,8 +17687,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &950107297
 Transform:
   m_ObjectHideFlags: 0
@@ -18579,8 +17731,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &957293099
 Transform:
   m_ObjectHideFlags: 0
@@ -18643,10 +17793,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1123852302}
-  - {fileID: 1949286963}
-  radius: 7
 --- !u!1 &962761279
 GameObject:
   m_ObjectHideFlags: 0
@@ -19147,8 +18293,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &986706545
 GameObject:
   m_ObjectHideFlags: 0
@@ -19194,8 +18338,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &992793391
 GameObject:
   m_ObjectHideFlags: 0
@@ -19240,8 +18382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &994968656
 GameObject:
   m_ObjectHideFlags: 0
@@ -19400,8 +18540,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1005925635
 GameObject:
   m_ObjectHideFlags: 0
@@ -19431,8 +18569,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1005925637
 Transform:
   m_ObjectHideFlags: 0
@@ -19492,8 +18628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1022054039
 GameObject:
   m_ObjectHideFlags: 0
@@ -19538,8 +18672,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1022337160
 GameObject:
   m_ObjectHideFlags: 0
@@ -19569,11 +18701,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1849494101}
-  - {fileID: 1919921268}
-  - {fileID: 1874593949}
-  radius: 7
 --- !u!4 &1022337162
 Transform:
   m_ObjectHideFlags: 0
@@ -19637,8 +18764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1047352362
 GameObject:
   m_ObjectHideFlags: 0
@@ -20025,8 +19150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1060576042
 GameObject:
   m_ObjectHideFlags: 0
@@ -20071,8 +19194,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1064688373
 GameObject:
   m_ObjectHideFlags: 0
@@ -20117,8 +19238,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1069506609
 GameObject:
   m_ObjectHideFlags: 0
@@ -20148,8 +19267,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1069506611
 Transform:
   m_ObjectHideFlags: 0
@@ -20323,8 +19440,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1079709805
 GameObject:
   m_ObjectHideFlags: 0
@@ -20369,8 +19484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1090824333
 GameObject:
   m_ObjectHideFlags: 0
@@ -20415,8 +19528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1091264738
 GameObject:
   m_ObjectHideFlags: 0
@@ -20461,8 +19572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1109383153
 GameObject:
   m_ObjectHideFlags: 0
@@ -20606,8 +19715,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1117846934
 Transform:
   m_ObjectHideFlags: 0
@@ -20781,8 +19888,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1123801954
 GameObject:
   m_ObjectHideFlags: 0
@@ -20941,8 +20046,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1126835978
 GameObject:
   m_ObjectHideFlags: 0
@@ -20987,8 +20090,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1128394126
 GameObject:
   m_ObjectHideFlags: 0
@@ -21033,8 +20134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1128631199
 GameObject:
   m_ObjectHideFlags: 0
@@ -21064,8 +20163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1128631201
 Transform:
   m_ObjectHideFlags: 0
@@ -21125,8 +20222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1128863700
 GameObject:
   m_ObjectHideFlags: 0
@@ -21174,10 +20269,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 279075550}
-  - {fileID: 57776400}
-  radius: 7
 --- !u!1 &1130331564
 GameObject:
   m_ObjectHideFlags: 0
@@ -21225,10 +20316,311 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 22954701}
-  - {fileID: 188067926}
-  radius: 14.000004
+--- !u!1 &1133949515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1133949526}
+  - component: {fileID: 1133949525}
+  - component: {fileID: 1133949524}
+  - component: {fileID: 1133949523}
+  - component: {fileID: 1133949522}
+  - component: {fileID: 1133949521}
+  - component: {fileID: 1133949520}
+  - component: {fileID: 1133949519}
+  - component: {fileID: 1133949518}
+  - component: {fileID: 1133949517}
+  - component: {fileID: 1133949516}
+  - component: {fileID: 1133949527}
+  - component: {fileID: 1133949528}
+  m_Layer: 0
+  m_Name: Capsule
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1133949516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f1775ac44d6fe46baf7aee189bd0ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GestorEnemigos
+  cam: {fileID: 0}
+  enemigoPrefab: {fileID: 0}
+  cantidad: 2
+  radioMaximo: 20
+  distanciaMinimaJugador: 8
+  velocidad: 3.5
+  distanciaDeteccion: 15
+  distanciaParada: 1.1
+  velocidadGiro: 8
+  reiniciarAlTocar: 1
+  distanciaContacto: 1.3
+  distanciaApuntado: 40
+  colorResaltado: {r: 1, g: 0, b: 0, a: 0.4}
+  escalaResaltado: 1.1
+--- !u!114 &1133949517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f1775ac44d6fe46baf7aee189bd0ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GestorEnemigos
+  cam: {fileID: 330585545}
+  enemigoPrefab: {fileID: 0}
+  cantidad: 2
+  radioMaximo: 20
+  distanciaMinimaJugador: 8
+  velocidad: 3.5
+  distanciaDeteccion: 15
+  distanciaParada: 1.1
+  velocidadGiro: 8
+  reiniciarAlTocar: 1
+  distanciaContacto: 1.3
+  distanciaApuntado: 40
+  colorResaltado: {r: 1, g: 0, b: 0, a: 0.4}
+  escalaResaltado: 1.1
+--- !u!114 &1133949518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe486b26c64dc846bfba3ca330dc01e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PrimeraPersona
+  camara: {fileID: 330585546}
+  sensibilidad: 0.2
+--- !u!114 &1133949519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff841c4a4e713d242b9e34f3dc0899b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Script
+  velocidad: 5
+  velocidadAcelerada: 10
+  alturaAgachado: 1
+  resistenciaMaxima: 100
+  resistencia: 100
+  consumoResistencia: 20
+  recuperacionResistencia: 15
+  barraResistencia: {fileID: 0}
+  rellenoBarra: {fileID: 0}
+--- !u!114 &1133949520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f078e9061b3e85b4bb396b2613755d50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptSalto
+  fuerzaSalto: 7
+  fuerzaSaltoPared: 7
+  impulsoPared: 6
+  suelo: {fileID: 1529776825}
+  pared: {fileID: 450999460}
+--- !u!114 &1133949521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8414bffce60643e4c947927491c0330b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Agacharse
+  alturaAgachado: 0.4
+--- !u!54 &1133949522
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!136 &1133949523
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1133949524
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1133949525
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1133949526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.56, y: 1.76, z: 0.85714}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1133949527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93598f38886605343a985b9110c5c33f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SistemaVehiculos
+  cam: {fileID: 330585545}
+  vehiculo: {fileID: 1332070036}
+  distanciaApuntado: 40
+  colorResaltado: {r: 0, g: 0.3, b: 1, a: 0.4}
+  escalaResaltado: 1.1
+--- !u!65 &1133949528
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133949515}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1134210052
 GameObject:
   m_ObjectHideFlags: 0
@@ -21273,8 +20665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1148398729
 GameObject:
   m_ObjectHideFlags: 0
@@ -21319,8 +20709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1150107244
 GameObject:
   m_ObjectHideFlags: 0
@@ -21593,8 +20981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 1
 --- !u!1 &1170018882
 GameObject:
   m_ObjectHideFlags: 0
@@ -21624,10 +21010,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 109824557}
-  - {fileID: 1605635366}
-  radius: 7
 --- !u!4 &1170018884
 Transform:
   m_ObjectHideFlags: 0
@@ -21690,8 +21072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1185824376
 GameObject:
   m_ObjectHideFlags: 0
@@ -21721,10 +21101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 679813097}
-  - {fileID: 2052669829}
-  radius: 7
 --- !u!4 &1185824378
 Transform:
   m_ObjectHideFlags: 0
@@ -21772,8 +21148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1186485946
 Transform:
   m_ObjectHideFlags: 0
@@ -21818,10 +21192,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 723279778}
-  - {fileID: 597436043}
-  radius: 14.000004
 --- !u!4 &1186746996
 Transform:
   m_ObjectHideFlags: 0
@@ -21887,10 +21257,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1148398731}
-  - {fileID: 224819837}
-  radius: 7
 --- !u!1 &1198849087
 GameObject:
   m_ObjectHideFlags: 0
@@ -22262,10 +21628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2073805243}
-  - {fileID: 1186485945}
-  radius: 7
 --- !u!4 &1210871579
 Transform:
   m_ObjectHideFlags: 0
@@ -22332,11 +21694,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1120166087}
-  - {fileID: 639043624}
-  - {fileID: 519243101}
-  radius: 6.3315735
 --- !u!1 &1218467217
 GameObject:
   m_ObjectHideFlags: 0
@@ -22498,10 +21855,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1651885001}
-  - {fileID: 1060576044}
-  radius: 7
 --- !u!1 &1229701072
 GameObject:
   m_ObjectHideFlags: 0
@@ -22549,10 +21902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 300549394}
-  - {fileID: 452607089}
-  radius: 7
 --- !u!1 &1235208949
 GameObject:
   m_ObjectHideFlags: 0
@@ -22582,8 +21931,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1235208951
 Transform:
   m_ObjectHideFlags: 0
@@ -22646,10 +21993,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 463685385}
-  - {fileID: 29894258}
-  radius: 7
 --- !u!1 &1242190493
 GameObject:
   m_ObjectHideFlags: 0
@@ -22679,11 +22022,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1235208950}
-  - {fileID: 1831519744}
-  - {fileID: 891855837}
-  radius: 7
 --- !u!4 &1242190495
 Transform:
   m_ObjectHideFlags: 0
@@ -22732,10 +22070,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 900664011}
-  - {fileID: 1928846429}
-  radius: 7
 --- !u!4 &1245570165
 Transform:
   m_ObjectHideFlags: 0
@@ -22801,10 +22135,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 148242636}
-  - {fileID: 164423053}
-  radius: 7
 --- !u!1 &1268734648
 GameObject:
   m_ObjectHideFlags: 0
@@ -22849,8 +22179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1269164281
 GameObject:
   m_ObjectHideFlags: 0
@@ -22880,8 +22208,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1269164283
 Transform:
   m_ObjectHideFlags: 0
@@ -22941,8 +22267,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1271951107
 GameObject:
   m_ObjectHideFlags: 0
@@ -22987,8 +22311,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1273944884
 GameObject:
   m_ObjectHideFlags: 0
@@ -23151,14 +22473,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &1274604491
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -23179,25 +22493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 1844122713}
-  end: {fileID: 915400133}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: 29.458038, y: 0, z: -5.6766586}
-  - {x: 26.980782, y: 0, z: -18.531937}
-  - {x: 18.589964, y: 0, z: -26.969593}
-  - {x: 5.6766663, y: 0, z: -29.45803}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  angles: []
-  bounds:
-    m_Center: {x: 17.534212, y: 0, z: -17.573696}
-    m_Extent: {x: 11.923826, y: 0, z: 11.897038}
-  boundingBoxes:
-  - m_Center: {x: 17.534212, y: 0, z: -17.573696}
-    m_Extent: {x: 11.923826, y: 0, z: 11.897038}
 --- !u!64 &1274604493
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -23428,8 +22723,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!43 &1286862945
 Mesh:
   m_ObjectHideFlags: 0
@@ -23668,8 +22961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1295502515
 GameObject:
   m_ObjectHideFlags: 0
@@ -23717,10 +23008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 947882555}
-  - {fileID: 529013981}
-  radius: 7.000001
 --- !u!1 &1299203133
 GameObject:
   m_ObjectHideFlags: 0
@@ -23768,10 +23055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1742556245}
-  - {fileID: 1441734318}
-  radius: 7
 --- !u!1 &1299403432
 GameObject:
   m_ObjectHideFlags: 0
@@ -23801,10 +23084,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 699942117}
-  - {fileID: 277278711}
-  radius: 7
 --- !u!4 &1299403434
 Transform:
   m_ObjectHideFlags: 0
@@ -23981,8 +23260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1309892262
 GameObject:
   m_ObjectHideFlags: 0
@@ -24027,8 +23304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1317943641
 GameObject:
   m_ObjectHideFlags: 0
@@ -24076,10 +23351,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1626687565}
-  - {fileID: 336579032}
-  radius: 7
 --- !u!1 &1319877895
 GameObject:
   m_ObjectHideFlags: 0
@@ -24124,8 +23395,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1323321490
 GameObject:
   m_ObjectHideFlags: 0
@@ -24174,11 +23443,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 869022810}
-  - {fileID: 1844122713}
-  - {fileID: 726184991}
-  radius: 6.3315735
 --- !u!1 &1324641687
 GameObject:
   m_ObjectHideFlags: 0
@@ -24208,10 +23472,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2108189252}
-  - {fileID: 950107296}
-  radius: 7
 --- !u!4 &1324641689
 Transform:
   m_ObjectHideFlags: 0
@@ -24230,6 +23490,90 @@ Transform:
   - {fileID: 950107297}
   m_Father: {fileID: 136572826}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1327245684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1327245685}
+  m_Layer: 0
+  m_Name: Camara
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1327245685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327245684}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1332070037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1332070036 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1039041537112898, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+  m_PrefabInstance: {fileID: 1529776824}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1332070037 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+  m_PrefabInstance: {fileID: 1529776824}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1332070038
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1332070036}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 0
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
+--- !u!65 &1332070039
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1332070036}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1332989701
 GameObject:
   m_ObjectHideFlags: 0
@@ -24274,8 +23618,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1350295592
 GameObject:
   m_ObjectHideFlags: 0
@@ -24323,10 +23665,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1760315479}
-  - {fileID: 223185921}
-  radius: 7
 --- !u!1 &1353691845
 GameObject:
   m_ObjectHideFlags: 0
@@ -24371,8 +23709,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1356607175
 GameObject:
   m_ObjectHideFlags: 0
@@ -24534,10 +23870,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1995236238}
-  - {fileID: 1505744836}
-  radius: 7
 --- !u!1 &1360652257
 GameObject:
   m_ObjectHideFlags: 0
@@ -24699,10 +24031,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2095005295}
-  - {fileID: 736269934}
-  radius: 7
 --- !u!1 &1369945640
 GameObject:
   m_ObjectHideFlags: 0
@@ -24747,8 +24075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1371953390
 GameObject:
   m_ObjectHideFlags: 0
@@ -24793,8 +24119,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1376673648
 GameObject:
   m_ObjectHideFlags: 0
@@ -25070,10 +24394,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1890920550}
-  - {fileID: 901816536}
-  radius: 7
 --- !u!1 &1383858887
 GameObject:
   m_ObjectHideFlags: 0
@@ -25673,10 +24993,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 707946173}
-  - {fileID: 1069506610}
-  radius: 7
 --- !u!4 &1417454498
 Transform:
   m_ObjectHideFlags: 0
@@ -25739,8 +25055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1424950518
 GameObject:
   m_ObjectHideFlags: 0
@@ -25770,8 +25084,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1424950520
 Transform:
   m_ObjectHideFlags: 0
@@ -25948,10 +25260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1458307379}
-  - {fileID: 302415628}
-  radius: 7.000001
 --- !u!1 &1434634532
 GameObject:
   m_ObjectHideFlags: 0
@@ -25996,8 +25304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1438839238
 GameObject:
   m_ObjectHideFlags: 0
@@ -26156,8 +25462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1443941915
 GameObject:
   m_ObjectHideFlags: 0
@@ -26187,8 +25491,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1443941917
 Transform:
   m_ObjectHideFlags: 0
@@ -26248,8 +25550,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1448579002
 GameObject:
   m_ObjectHideFlags: 0
@@ -26294,8 +25594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1448764100
 GameObject:
   m_ObjectHideFlags: 0
@@ -26340,8 +25638,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1448881183
 GameObject:
   m_ObjectHideFlags: 0
@@ -26500,8 +25796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1455892198
 GameObject:
   m_ObjectHideFlags: 0
@@ -26531,8 +25825,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1455892200
 Transform:
   m_ObjectHideFlags: 0
@@ -26592,8 +25884,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1459363704
 GameObject:
   m_ObjectHideFlags: 0
@@ -26640,10 +25930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1309892264}
-  - {fileID: 1484731171}
-  radius: 7
 --- !u!1 &1462364370
 GameObject:
   m_ObjectHideFlags: 0
@@ -26688,8 +25974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1470030284
 GameObject:
   m_ObjectHideFlags: 0
@@ -26848,8 +26132,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1484100859
 GameObject:
   m_ObjectHideFlags: 0
@@ -27008,8 +26290,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1488387152
 GameObject:
   m_ObjectHideFlags: 0
@@ -27039,8 +26319,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1488387154
 Transform:
   m_ObjectHideFlags: 0
@@ -27085,10 +26363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 2024009214}
-  - {fileID: 1561358837}
-  radius: 7
 --- !u!4 &1503257067
 Transform:
   m_ObjectHideFlags: 0
@@ -27154,10 +26428,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1309247653}
-  - {fileID: 1291804508}
-  radius: 7
 --- !u!1 &1505336069
 GameObject:
   m_ObjectHideFlags: 0
@@ -27187,8 +26457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1505336071
 Transform:
   m_ObjectHideFlags: 0
@@ -27248,8 +26516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1506954057
 GameObject:
   m_ObjectHideFlags: 0
@@ -27298,14 +26564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &1506954060
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -27326,25 +26584,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 12284054}
-  end: {fileID: 519243101}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: -5.6766663, y: 0, z: -29.45803}
-  - {x: -18.526476, y: 0, z: -26.981827}
-  - {x: -26.98078, y: 0, z: -18.531944}
-  - {x: -29.458038, y: 0, z: -5.6766586}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  angles: []
-  bounds:
-    m_Center: {x: -17.567352, y: 0, z: -17.567345}
-    m_Extent: {x: 11.890686, y: 0, z: 11.890686}
-  boundingBoxes:
-  - m_Center: {x: -17.567352, y: 0, z: -17.567345}
-    m_Extent: {x: 11.890686, y: 0, z: 11.890686}
 --- !u!64 &1506954062
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -27464,10 +26703,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1022806176}
-  - {fileID: 289596527}
-  radius: 7
 --- !u!1 &1508765917
 GameObject:
   m_ObjectHideFlags: 0
@@ -27629,10 +26864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1649563438}
-  - {fileID: 17241485}
-  radius: 7
 --- !u!1 &1514939921
 GameObject:
   m_ObjectHideFlags: 0
@@ -27791,8 +27022,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1525086301
 GameObject:
   m_ObjectHideFlags: 0
@@ -27837,8 +27066,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1529401368
 GameObject:
   m_ObjectHideFlags: 0
@@ -27886,10 +27113,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 604638443}
-  - {fileID: 1964631811}
-  radius: 7
 --- !u!1 &1529571094
 GameObject:
   m_ObjectHideFlags: 0
@@ -28004,6 +27227,83 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1529571094}
   m_Mesh: {fileID: -462981019419857548, guid: fac25352ec8ea32478d961f39f74af2d, type: 3}
+--- !u!1001 &1529776824
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1039041537112898, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_Name
+      value: PickUp_Damaged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.890426
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6267288
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.1982007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 227065287}
+    - targetCorrespondingSourceObject: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1617453777}
+    - targetCorrespondingSourceObject: {fileID: 4888556755690502, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1327245685}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1039041537112898, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1332070038}
+    - targetCorrespondingSourceObject: {fileID: 1039041537112898, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1332070039}
+  m_SourcePrefab: {fileID: 100100000, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+--- !u!1 &1529776825 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1059641351358568, guid: 20d6170d440e52b438267a860798bb0a, type: 3}
+  m_PrefabInstance: {fileID: 1529776824}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &1530620444
 Mesh:
   m_ObjectHideFlags: 0
@@ -28245,10 +27545,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 32731216}
-  - {fileID: 727596167}
-  radius: 7
 --- !u!1 &1542494888
 GameObject:
   m_ObjectHideFlags: 0
@@ -28293,8 +27589,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1544840641
 GameObject:
   m_ObjectHideFlags: 0
@@ -28343,14 +27637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &1544840644
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -28371,25 +27657,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 639043624}
-  end: {fileID: 1966380561}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: -29.458038, y: 0, z: 5.6766586}
-  - {x: -26.981834, y: 0, z: 18.526472}
-  - {x: -18.526535, y: 0, z: 26.981821}
-  - {x: -5.6766663, y: 0, z: 29.458038}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  angles: []
-  bounds:
-    m_Center: {x: -17.567352, y: 0, z: 17.567348}
-    m_Extent: {x: 11.890686, y: 0, z: 11.89069}
-  boundingBoxes:
-  - m_Center: {x: -17.567352, y: 0, z: 17.567348}
-    m_Extent: {x: 11.890686, y: 0, z: 11.89069}
 --- !u!64 &1544840646
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -28509,10 +27776,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1689271959}
-  - {fileID: 1332989703}
-  radius: 7
 --- !u!1 &1547203790
 GameObject:
   m_ObjectHideFlags: 0
@@ -28542,8 +27805,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1547203792
 Transform:
   m_ObjectHideFlags: 0
@@ -28588,8 +27849,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1561358838
 Transform:
   m_ObjectHideFlags: 0
@@ -28766,10 +28025,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1865543390}
-  - {fileID: 744567803}
-  radius: 7.0000153
 --- !u!1 &1575725272
 GameObject:
   m_ObjectHideFlags: 0
@@ -28913,8 +28168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1577952881
 Transform:
   m_ObjectHideFlags: 0
@@ -28959,10 +28212,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1587750798}
-  - {fileID: 1424950519}
-  radius: 7
 --- !u!4 &1578347486
 Transform:
   m_ObjectHideFlags: 0
@@ -29025,8 +28274,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1587750796
 GameObject:
   m_ObjectHideFlags: 0
@@ -29071,8 +28318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1596171936
 GameObject:
   m_ObjectHideFlags: 0
@@ -29117,8 +28362,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1596198423
 GameObject:
   m_ObjectHideFlags: 0
@@ -29166,10 +28409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 273914031}
-  - {fileID: 608111124}
-  radius: 7
 --- !u!1 &1597694171
 GameObject:
   m_ObjectHideFlags: 0
@@ -29313,8 +28552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1605635367
 Transform:
   m_ObjectHideFlags: 0
@@ -29374,8 +28611,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1607997225
 GameObject:
   m_ObjectHideFlags: 0
@@ -29519,8 +28754,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1610008679
 Transform:
   m_ObjectHideFlags: 0
@@ -29694,8 +28927,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
+--- !u!1 &1617453776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1617453777}
+  m_Layer: 0
+  m_Name: GameObject (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1617453777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617453776}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1332070037}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1622835162
 GameObject:
   m_ObjectHideFlags: 0
@@ -29740,8 +29002,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1623559318
 GameObject:
   m_ObjectHideFlags: 0
@@ -29786,8 +29046,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1626687563
 GameObject:
   m_ObjectHideFlags: 0
@@ -29832,8 +29090,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1633914550
 GameObject:
   m_ObjectHideFlags: 0
@@ -29992,8 +29248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1640039558
 GameObject:
   m_ObjectHideFlags: 0
@@ -30042,14 +29296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &1640039561
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -30070,25 +29316,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 726184991}
-  end: {fileID: 515127877}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: 29.458038, y: 0, z: 5.6766586}
-  - {x: 26.981834, y: 0, z: 18.526468}
-  - {x: 18.526476, y: 0, z: 26.981834}
-  - {x: 5.6766663, y: 0, z: 29.458038}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  angles: []
-  bounds:
-    m_Center: {x: 17.567352, y: 0, z: 17.567348}
-    m_Extent: {x: 11.890686, y: 0, z: 11.89069}
-  boundingBoxes:
-  - m_Center: {x: 17.567352, y: 0, z: 17.567348}
-    m_Extent: {x: 11.890686, y: 0, z: 11.89069}
 --- !u!64 &1640039563
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -30205,8 +29432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1643981025
 GameObject:
   m_ObjectHideFlags: 0
@@ -30368,10 +29593,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1462364372}
-  - {fileID: 1371953392}
-  radius: 7
 --- !u!1 &1649563436
 GameObject:
   m_ObjectHideFlags: 0
@@ -30416,8 +29637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1651455782
 GameObject:
   m_ObjectHideFlags: 0
@@ -30465,10 +29684,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 467329182}
-  - {fileID: 741236468}
-  radius: 7
 --- !u!1 &1651884999
 GameObject:
   m_ObjectHideFlags: 0
@@ -30513,8 +29728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1652526663
 GameObject:
   m_ObjectHideFlags: 0
@@ -30562,10 +29775,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1887106392}
-  - {fileID: 1021852761}
-  radius: 7
 --- !u!1 &1656396603
 GameObject:
   m_ObjectHideFlags: 0
@@ -30610,8 +29819,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1668903472
 GameObject:
   m_ObjectHideFlags: 0
@@ -30656,8 +29863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1670353712
 GameObject:
   m_ObjectHideFlags: 0
@@ -30702,8 +29907,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1670505756
 GameObject:
   m_ObjectHideFlags: 0
@@ -30862,8 +30065,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1679951249
 GameObject:
   m_ObjectHideFlags: 0
@@ -30908,8 +30109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!43 &1682007617
 Mesh:
   m_ObjectHideFlags: 0
@@ -31148,8 +30347,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1695681227
 GameObject:
   m_ObjectHideFlags: 0
@@ -31183,67 +30380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cddc1941501135645b2a8b35032f1fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start: {fileID: 0}
-  end: {fileID: 0}
-  direction: 0
-  autoSetControlPoints: 0
-  points:
-  - {x: -0.23155212, y: -0.19999999, z: 0}
-  - {x: -0.23155212, y: -0.19999999, z: 1}
-  - {x: 0, y: -0.35904723, z: 9}
-  - {x: 0, y: -0.35904723, z: 10}
-  - {x: 0, y: -0.35904723, z: 16.870203}
-  - {x: -0.006674193, y: -0.25376922, z: 17.900372}
-  - {x: -0.04449463, y: -0.25376922, z: 23.73799}
-  - {x: -0.07372656, y: -0.25376922, z: 28.249964}
-  - {x: -0.17020029, y: -0.27304327, z: 28.990559}
-  - {x: -0.17114258, y: -0.25376922, z: 32.76124}
-  - {x: -0.1725149, y: -0.22569902, z: 38.25275}
-  - {x: -0.07111025, y: -0.3649741, z: 39.50234}
-  - {x: -0.037109375, y: -0.25376922, z: 43.743587}
-  - {x: -0.0057518557, y: -0.1512098, z: 47.655106}
-  - {x: -0.21091795, y: -0.23572768, z: 48.132015}
-  - {x: -0.19396973, y: -0.25376922, z: 51.568}
-  - {x: -0.16289687, y: -0.28684655, z: 57.86753}
-  - {x: -0.109069586, y: -0.2536936, z: 58.87025}
-  - {x: -0.09124756, y: -0.25376922, z: 64.21977}
-  - {x: -0.07162846, y: -0.25385246, z: 70.10871}
-  - {x: -0.08953929, y: -0.25368792, z: 70.92155}
-  - {x: -0.11553955, y: -0.25376922, z: 75.997696}
-  - {x: -0.15368724, y: -0.25388852, z: 83.44544}
-  - {x: -0.09308453, y: -0.40031245, z: 84.80437}
-  - {x: -0.1255188, y: -0.40035385, z: 91.112175}
-  normals:
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0, y: 1, z: 0}
-  - {x: 0.0003114987, y: 0.9999869, z: -0.005111416}
-  - {x: -0.0011788097, y: 0.999656, z: -0.026201375}
-  - {x: -0.00045197667, y: 0.9999861, z: 0.0052529164}
-  - {x: 0.0000011226402, y: 1, z: 0.000014129952}
-  - {x: -0.0000015712325, y: 1, z: 0.000016008176}
-  - {x: 0.0000010538297, y: 1, z: 0.000006567988}
-  angles: []
-  bounds:
-    m_Center: {x: -0.11577606, y: -0.30017692, z: 45.556084}
-    m_Extent: {x: 0.11577606, y: 0.10017693, z: 45.556084}
-  boundingBoxes:
-  - m_Center: {x: -0.11577606, y: -0.2795236, z: 5}
-    m_Extent: {x: 0.11577606, y: 0.07952362, z: 5}
-  - m_Center: {x: -0.022247314, y: -0.30640823, z: 16.868996}
-    m_Extent: {x: 0.022247314, y: 0.052639008, z: 6.8689957}
-  - m_Center: {x: -0.1078186, y: -0.25802106, z: 28.249615}
-    m_Extent: {x: 0.063323975, y: 0.0042518377, z: 4.5116234}
-  - m_Center: {x: -0.10412598, y: -0.27341798, z: 38.25241}
-    m_Extent: {x: 0.0670166, y: 0.023378938, z: 5.491173}
-  - m_Center: {x: -0.114932, y: -0.22884426, z: 47.655792}
-    m_Extent: {x: 0.07981004, y: 0.024924964, z: 3.9122086}
-  - m_Center: {x: -0.14260864, y: -0.26103044, z: 57.893887}
-    m_Extent: {x: 0.051361084, y: 0.0072612166, z: 6.325886}
-  - m_Center: {x: -0.09927876, y: -0.25376964, z: 70.108734}
-    m_Extent: {x: 0.016260788, y: 0.00002336502, z: 5.888962}
-  - m_Center: {x: -0.12206775, y: -0.32706153, z: 83.55493}
-    m_Extent: {x: 0.0065281987, y: 0.073292315, z: 7.5572357}
 --- !u!114 &1695681229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31256,14 +30392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59f529346a7379142901f04d3a39718e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settings:
-    SourceOrientation:
-      forward: 2
-      up: 4
-      isRightHanded: 0
-    uvOffset: {x: 0, y: 1}
-  autoGenerate: 1
-  SourceMesh: {fileID: -5754084199372789682, guid: 1b15aef69dde7004db57553f1c24b8cf, type: 3}
 --- !u!33 &1695681230
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -31406,10 +30534,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 851449868}
-  - {fileID: 1908942080}
-  radius: 7
 --- !u!1 &1708053123
 GameObject:
   m_ObjectHideFlags: 0
@@ -31455,8 +30579,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1715046880
 GameObject:
   m_ObjectHideFlags: 0
@@ -31501,8 +30623,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1721207839
 GameObject:
   m_ObjectHideFlags: 0
@@ -31550,10 +30670,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 619237841}
-  - {fileID: 361960289}
-  radius: 7
 --- !u!1 &1722411503
 GameObject:
   m_ObjectHideFlags: 0
@@ -31601,10 +30717,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 737165040}
-  - {fileID: 1772389342}
-  radius: 7
 --- !u!1 &1728607036
 GameObject:
   m_ObjectHideFlags: 0
@@ -31763,8 +30875,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1742556243
 GameObject:
   m_ObjectHideFlags: 0
@@ -31809,8 +30919,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1744374943
 GameObject:
   m_ObjectHideFlags: 0
@@ -31855,8 +30963,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1760315477
 GameObject:
   m_ObjectHideFlags: 0
@@ -31901,8 +31007,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1767343872
 GameObject:
   m_ObjectHideFlags: 0
@@ -31932,10 +31036,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 842895612}
-  - {fileID: 503143495}
-  radius: 14
 --- !u!4 &1767343874
 Transform:
   m_ObjectHideFlags: 0
@@ -31998,8 +31098,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1775249983
 GameObject:
   m_ObjectHideFlags: 0
@@ -32044,8 +31142,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1781394863
 GameObject:
   m_ObjectHideFlags: 0
@@ -32090,8 +31186,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1783201653
 GameObject:
   m_ObjectHideFlags: 0
@@ -32250,8 +31344,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1796237840
 GameObject:
   m_ObjectHideFlags: 0
@@ -32299,10 +31391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1448764102}
-  - {fileID: 1178111828}
-  radius: 7
 --- !u!1 &1796326890
 GameObject:
   m_ObjectHideFlags: 0
@@ -32350,10 +31438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1851304938}
-  - {fileID: 614795305}
-  radius: 7.000002
 --- !u!1 &1800898474
 GameObject:
   m_ObjectHideFlags: 0
@@ -32398,8 +31482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1801735376
 GameObject:
   m_ObjectHideFlags: 0
@@ -32447,10 +31529,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1270760480}
-  - {fileID: 340048358}
-  radius: 7.0000153
 --- !u!1 &1807753237
 GameObject:
   m_ObjectHideFlags: 0
@@ -32495,8 +31573,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1809753034
 GameObject:
   m_ObjectHideFlags: 0
@@ -32541,8 +31617,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1811199343
 GameObject:
   m_ObjectHideFlags: 0
@@ -32590,10 +31664,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 420794056}
-  - {fileID: 31709522}
-  radius: 7
 --- !u!1 &1818199655
 GameObject:
   m_ObjectHideFlags: 0
@@ -32752,8 +31822,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1831519743
 GameObject:
   m_ObjectHideFlags: 0
@@ -32783,8 +31851,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1831519745
 Transform:
   m_ObjectHideFlags: 0
@@ -32829,10 +31895,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 527626189}
-  - {fileID: 1547203791}
-  radius: 14
 --- !u!4 &1831832311
 Transform:
   m_ObjectHideFlags: 0
@@ -33009,8 +32071,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1844122712
 GameObject:
   m_ObjectHideFlags: 0
@@ -33040,8 +32100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1274604492}
-  isStart: 1
 --- !u!4 &1844122714
 Transform:
   m_ObjectHideFlags: 0
@@ -33180,8 +32238,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1849494102
 Transform:
   m_ObjectHideFlags: 0
@@ -33355,8 +32411,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1853627853
 GameObject:
   m_ObjectHideFlags: 0
@@ -33402,8 +32456,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1860085612
 GameObject:
   m_ObjectHideFlags: 0
@@ -33433,10 +32485,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 274081844}
-  - {fileID: 1488387153}
-  radius: 7
 --- !u!4 &1860085614
 Transform:
   m_ObjectHideFlags: 0
@@ -33499,8 +32547,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1869026777
 GameObject:
   m_ObjectHideFlags: 0
@@ -33776,10 +32822,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 265411854}
-  - {fileID: 1128394128}
-  radius: 7
 --- !u!1 &1870559292
 GameObject:
   m_ObjectHideFlags: 0
@@ -33827,10 +32869,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1679951251}
-  - {fileID: 41889461}
-  radius: 7
 --- !u!1 &1871254120
 GameObject:
   m_ObjectHideFlags: 0
@@ -33989,8 +33027,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1872429312
 GameObject:
   m_ObjectHideFlags: 0
@@ -34134,8 +33170,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1874593950
 Transform:
   m_ObjectHideFlags: 0
@@ -34199,15 +33233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1169908233}
-  - {fileID: 804983327}
-  - {fileID: 1448579004}
-  - {fileID: 808912575}
-  - {fileID: 410003428}
-  - {fileID: 352824606}
-  - {fileID: 1579915490}
-  radius: 34.994736
 --- !u!1 &1879458917
 GameObject:
   m_ObjectHideFlags: 0
@@ -34351,10 +33376,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1090824335}
-  - {fileID: 1577952880}
-  radius: 7
 --- !u!4 &1883796777
 Transform:
   m_ObjectHideFlags: 0
@@ -34417,8 +33438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1889936719
 GameObject:
   m_ObjectHideFlags: 0
@@ -34463,8 +33482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1890617506
 GameObject:
   m_ObjectHideFlags: 0
@@ -34509,8 +33526,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1890920548
 GameObject:
   m_ObjectHideFlags: 0
@@ -34555,8 +33570,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1900233242
 GameObject:
   m_ObjectHideFlags: 0
@@ -34604,10 +33617,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1715046882}
-  - {fileID: 2002318342}
-  radius: 7
 --- !u!1 &1903881852
 GameObject:
   m_ObjectHideFlags: 0
@@ -34766,8 +33775,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1915620762
 GameObject:
   m_ObjectHideFlags: 0
@@ -34797,8 +33804,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1915620764
 Transform:
   m_ObjectHideFlags: 0
@@ -35071,8 +34076,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1919921269
 Transform:
   m_ObjectHideFlags: 0
@@ -35133,8 +34136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1923498883
 GameObject:
   m_ObjectHideFlags: 0
@@ -35164,8 +34165,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1923498885
 Transform:
   m_ObjectHideFlags: 0
@@ -35225,8 +34224,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1928846428
 GameObject:
   m_ObjectHideFlags: 0
@@ -35256,8 +34253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1928846430
 Transform:
   m_ObjectHideFlags: 0
@@ -35320,10 +34315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 97049444}
-  - {fileID: 1640482399}
-  radius: 14.000009
 --- !u!1 &1949286961
 GameObject:
   m_ObjectHideFlags: 0
@@ -35368,8 +34359,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1949623713
 GameObject:
   m_ObjectHideFlags: 0
@@ -35414,8 +34403,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1952788056
 GameObject:
   m_ObjectHideFlags: 0
@@ -35445,10 +34432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 550714687}
-  - {fileID: 23433884}
-  radius: 7
 --- !u!4 &1952788058
 Transform:
   m_ObjectHideFlags: 0
@@ -35511,8 +34494,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1964631809
 GameObject:
   m_ObjectHideFlags: 0
@@ -35557,8 +34538,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1966380560
 GameObject:
   m_ObjectHideFlags: 0
@@ -35588,8 +34567,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 1544840645}
-  isStart: 0
 --- !u!4 &1966380562
 Transform:
   m_ObjectHideFlags: 0
@@ -35653,11 +34630,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 651649642}
-  - {fileID: 12284054}
-  - {fileID: 915400133}
-  radius: 6.331581
 --- !u!43 &1971009690
 Mesh:
   m_ObjectHideFlags: 0
@@ -35899,10 +34871,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1786789466}
-  - {fileID: 1126835980}
-  radius: 7
 --- !u!1 &1984338826
 GameObject:
   m_ObjectHideFlags: 0
@@ -35947,8 +34915,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1984678885
 GameObject:
   m_ObjectHideFlags: 0
@@ -35996,10 +34962,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1471907511}
-  - {fileID: 181635437}
-  radius: 7
 --- !u!1 &1990896152
 GameObject:
   m_ObjectHideFlags: 0
@@ -36158,8 +35120,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1993019976
 GameObject:
   m_ObjectHideFlags: 0
@@ -36189,8 +35149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &1993019978
 Transform:
   m_ObjectHideFlags: 0
@@ -36250,8 +35208,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &1997059463
 GameObject:
   m_ObjectHideFlags: 0
@@ -36413,10 +35369,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 815037590}
-  - {fileID: 772563818}
-  radius: 14.000006
 --- !u!1 &1999408340
 GameObject:
   m_ObjectHideFlags: 0
@@ -36464,10 +35416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 573534201}
-  - {fileID: 588775206}
-  radius: 7
 --- !u!1 &2000406717
 GameObject:
   m_ObjectHideFlags: 0
@@ -36512,8 +35460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2002318340
 GameObject:
   m_ObjectHideFlags: 0
@@ -36558,8 +35504,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2004027313
 GameObject:
   m_ObjectHideFlags: 0
@@ -36607,10 +35551,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1268734650}
-  - {fileID: 1958926362}
-  radius: 7
 --- !u!1 &2011488479
 GameObject:
   m_ObjectHideFlags: 0
@@ -36655,8 +35595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2013712158
 GameObject:
   m_ObjectHideFlags: 0
@@ -36800,8 +35738,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &2018429600
 Transform:
   m_ObjectHideFlags: 0
@@ -36861,8 +35797,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2023582639
 GameObject:
   m_ObjectHideFlags: 0
@@ -36907,8 +35841,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2024009213
 GameObject:
   m_ObjectHideFlags: 0
@@ -36938,8 +35870,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &2024009215
 Transform:
   m_ObjectHideFlags: 0
@@ -36984,10 +35914,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1271951109}
-  - {fileID: 115659861}
-  radius: 7.0000076
 --- !u!4 &2026946924
 Transform:
   m_ObjectHideFlags: 0
@@ -37149,10 +36075,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1128671964}
-  - {fileID: 2105718099}
-  radius: 7
 --- !u!4 &2041407873
 Transform:
   m_ObjectHideFlags: 0
@@ -37215,8 +36137,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2050026402
 GameObject:
   m_ObjectHideFlags: 0
@@ -37264,10 +36184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1353691847}
-  - {fileID: 1418060587}
-  radius: 7
 --- !u!1 &2052669828
 GameObject:
   m_ObjectHideFlags: 0
@@ -37297,8 +36213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &2052669830
 Transform:
   m_ObjectHideFlags: 0
@@ -37358,8 +36272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2061156347
 GameObject:
   m_ObjectHideFlags: 0
@@ -37407,10 +36319,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1454252333}
-  - {fileID: 734717684}
-  radius: 14.000006
 --- !u!1 &2071510576
 GameObject:
   m_ObjectHideFlags: 0
@@ -37534,8 +36442,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &2073805244
 Transform:
   m_ObjectHideFlags: 0
@@ -37595,8 +36501,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2081732880
 GameObject:
   m_ObjectHideFlags: 0
@@ -37641,8 +36545,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2082705199
 GameObject:
   m_ObjectHideFlags: 0
@@ -37998,10 +36900,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1434634534}
-  - {fileID: 1606043767}
-  radius: 7
 --- !u!1 &2095005293
 GameObject:
   m_ObjectHideFlags: 0
@@ -38046,8 +36944,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2096774454
 GameObject:
   m_ObjectHideFlags: 0
@@ -38191,10 +37087,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1610008678}
-  - {fileID: 1269164282}
-  radius: 6.9999948
 --- !u!4 &2101952734
 Transform:
   m_ObjectHideFlags: 0
@@ -38356,8 +37248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!4 &2105718100
 Transform:
   m_ObjectHideFlags: 0
@@ -38417,8 +37307,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2139484804
 GameObject:
   m_ObjectHideFlags: 0
@@ -38467,11 +37355,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 764369026}
-  - {fileID: 515127877}
-  - {fileID: 1966380561}
-  radius: 6.3315887
 --- !u!1 &2141825619
 GameObject:
   m_ObjectHideFlags: 0
@@ -38519,10 +37402,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 1821976965}
-  - {fileID: 1775249985}
-  radius: 7
 --- !u!1 &2143203080
 GameObject:
   m_ObjectHideFlags: 0
@@ -38567,8 +37446,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40a17a93314be894982a1a4a345c5be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  road: {fileID: 0}
-  isStart: 0
 --- !u!1 &2144075128
 GameObject:
   m_ObjectHideFlags: 0
@@ -38616,10 +37493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 427675500}
-  - {fileID: 1949623715}
-  radius: 7
 --- !u!1 &2145102172
 GameObject:
   m_ObjectHideFlags: 0
@@ -38781,10 +37654,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66c8c1c2cfede7942af6ec297c27dc77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchorPoints:
-  - {fileID: 992793393}
-  - {fileID: 831032237}
-  radius: 7
 --- !u!1 &2146668437
 GameObject:
   m_ObjectHideFlags: 0
@@ -38912,3 +37781,5 @@ SceneRoots:
   - {fileID: 2101952734}
   - {fileID: 1849432261}
   - {fileID: 112225702}
+  - {fileID: 1529776824}
+  - {fileID: 1133949526}
